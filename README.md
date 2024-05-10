@@ -1,6 +1,11 @@
 # React + Vite
+deployed in 
 
+https://recipe-app-eosin-zeta.vercel.app/ 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+![image](https://github.com/aritrichatterjee9/recipe-app-with-reactjs-and-redux-edamam-api-master/assets/73156770/0bab4633-69de-499b-8705-35a48c751204)
+
 
 Currently, two official plugins are available:
 
